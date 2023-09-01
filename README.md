@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @City-of-Rom3
+- 👋 Hi, I’m Rome
 - 👀 I’m interested in data science, analysis, health tech and sports. 
 - 🌱 I’m currently learning python, SQL and studying for CompTIA certs. 
 - 💞️ I’m looking to collaborate on ...
